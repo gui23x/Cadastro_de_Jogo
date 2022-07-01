@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    background-color: darkturquoise;
+    
+}
+.formlogin{
+    margin: 25%;
+    padding: 4%;
+}
+
+.container{
+    background: rgb(2, 137, 139);
+}
+.corpo{
+    background-color: rgb(14, 238, 241);
+}
